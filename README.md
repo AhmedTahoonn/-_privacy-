@@ -1,3 +1,5 @@
+Privacy Policy
+
 Welcome to Islami, a mobile application that provides a variety of Islamic features. Your privacy is important to us, and this policy explains how we collect, use, and protect your information when you use the app.
 
 1. Information We Collect
